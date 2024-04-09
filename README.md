@@ -1,4 +1,5 @@
-![alt text](https://img.freepik.com/premium-vector/padlock-security-cyber-digital-concept-abstract-technology-background-protect-system-innovation_42421-1437.jpg)
+![alt text](https://online.sbu.edu/sites/default/files/field/image/cybersecurity_tools_1.jpg)
+)
 <h1 align="center">Hi 👋, I'm Zeycan</h1>
 <h3 align="center">A computer engineering student from Turkey</h3>
 
