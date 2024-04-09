@@ -1,5 +1,4 @@
-![alt text](https://media.licdn.com/dms/image/D5612AQFZLrOKbr9ogA/article-cover_image-shrink_720_1280/0/1657691007305?e=2147483647&v=beta&t=AOH1aXHLDqfK-gC7aIjFgAF_yIfW5OrE6Zm7028yPLA)
-)
+<img src="https://media.licdn.com/dms/image/D5612AQFZLrOKbr9ogA/article-cover_image-shrink_720_1280/0/1657691007305?e=2147483647&v=beta&t=AOH1aXHLDqfK-gC7aIjFgAF_yIfW5OrE6Zm7028yPLA" width="900" height="400">
 <h1 align="center">Hi 👋, I'm Zeycan</h1>
 <h3 align="center">A computer engineering student from Turkey</h3>
 
