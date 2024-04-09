@@ -1,4 +1,4 @@
-![alt text](https://online.sbu.edu/sites/default/files/field/image/cybersecurity_tools_1.jpg)
+![alt text](https://media.licdn.com/dms/image/D5612AQFZLrOKbr9ogA/article-cover_image-shrink_720_1280/0/1657691007305?e=2147483647&v=beta&t=AOH1aXHLDqfK-gC7aIjFgAF_yIfW5OrE6Zm7028yPLA)
 )
 <h1 align="center">Hi 👋, I'm Zeycan</h1>
 <h3 align="center">A computer engineering student from Turkey</h3>
@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/zeycanaslan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zeycanaslan1" height="30" width="40" /></a>
+
 <a href="https://www.linkedin.com/in/zeycan-aslan-9aa274255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zeycan-aslan-9aa274255/" height="30" width="40" /></a>
 <a href="https://instagram.com/zeycanasln" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zeycanasln" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/zeycan aslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zeycan aslan" height="30" width="40" /></a>
