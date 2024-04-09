@@ -1,4 +1,4 @@
-![alt text](https://www.google.com/search?sca_esv=635483f0705dd420&sxsrf=ACQVn0_QYYbpI_rTdwYU1NwElAIgxW8I2g:1712626571193&q=cyber+security+background&uds=AMwkrPtDs_b4iCMpBh-eLCxcpOX3KUMM1Ef2iflI0M83hIrOM1giWafWJQlraMnFa5UjEIBd3c4ZPO7BeB4ckRvzYjgeUsxZhobKEvbgMmzjXhKiG5csi4wnRhl3LjshIWcq7b4nL0xqizryghFl6hiHxyN-vHRjJmW57-4YrDPxyl6SGmHQ6Fc3xK24XZNuRcKylUCkgo1TLoSi8Zd1jKnCUZm5U-KgBuxlALgmlpmpkYUluVe-3b0zscRJNXA5BmNBuElPBEDrSsZlGdP5DtSldvxOfPuzhrOPDUpUqdD0MCLyJwtFLI4&udm=2&prmd=invbtz&sa=X&sqi=2&ved=2ahUKEwjcn6KT_7OFAxVBhv0HHSEDCjoQtKgLegQIChAB&biw=1396&bih=663&dpr=1.25#vhid=9ynfbaNZXE7WUM&vssid=mosaic)
+![alt text](https://img.freepik.com/premium-vector/padlock-security-cyber-digital-concept-abstract-technology-background-protect-system-innovation_42421-1437.jpg)
 <h1 align="center">Hi 👋, I'm Zeycan</h1>
 <h3 align="center">A computer engineering student from Turkey</h3>
 
